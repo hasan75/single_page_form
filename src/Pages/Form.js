@@ -54,7 +54,7 @@ const FormPage = ({ setAgree, agree, setName, name, setSectors, sectors }) => {
       </div>
       <div className='lg:w-3/4 w-[90%] h-auto shadow-md mx-auto block rounded-2xl lg:p-20 sm:p-12 p-6 mt-24'>
         <h1 className='text-slate-600 text-2xl font-semibold text-center'>
-          Form
+          Information Form
         </h1>
 
         <div className='mx-auto mt-4'>
